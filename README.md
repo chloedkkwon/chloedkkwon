@@ -4,9 +4,9 @@ My name is Dokyung Kwon. The first part sounds like [togjʌŋ] or 'TOH-GYUNG', b
 
 I started doing research in phonetics in 2017 when I wanted to help Korean L2 learners of English improve their pronunciation. Over time, my focus shifted toward a more cognitive perspective, specifically, how variability in speech maps onto sound categories and words in our minds.
 
-I'm also fascinated by different experimental, statistical, and computational approaches to modeling data, which is a big part of why I fell in love with phonetics!
+I'm also fascinated by different **experimental, statistical, and computational approaches to modeling data**, which is a big part of why I fell in love with phonetics!
 
-When it comes to tools, I regularly use MATLAB, R, and Python, each for different purposes:
+🛠️ When it comes to tools, I regularly use MATLAB, R, and Python, each for different purposes:
 - **MATLAB** for acoustic data, signal processing, and data visualization
 - **R** for statistical analyses and data visualization
 - **Python** for data cleaning, machine learning, and deep neural networks
