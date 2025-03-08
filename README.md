@@ -2,7 +2,7 @@
 
 My name is Dokyung Kwon. The first part sounds like [togjʌŋ] or 'TOH-GYUNG', but I prefer to go by **Chloe** because I like the name!
 
-I started doing research in phonetics in 2017 when I wanted to help Korean L2 learners of English improve their pronunciation. Over time, my focus shifted toward a more cognitive perspective, specifically, how variability in speech maps onto sound categories and words in our minds.
+I started doing research in phonetics in 2017 when I wanted to help Korean L2 learners of English improve their pronunciation. Over time, my focus shifted toward a more cognitive perspective, specifically, how variability in speech maps onto sound categories and words in our minds. If you are curious about my research, please visit [my website](https://chloedkkwon.github.io/).
 
 I'm also fascinated by different **experimental, statistical, and computational approaches to modeling data**, which is a big part of why I fell in love with phonetics!
 
@@ -12,8 +12,6 @@ I'm also fascinated by different **experimental, statistical, and computational 
 - **Python** for data cleaning, machine learning, and deep neural networks
 
 I will continue sharing my codes to help those starting their own research or language-related data science projects. 
-
-For a more academic introduction, please visit [my website](https://chloedkkwon.github.io/).
 
 Feel free to reach me at [dk837@cornell.edu](mailto:dk837@cornell.edu) or [chloe.dkkwon@gmail.com](mailto:chloe.dkkwon@gmail.com) if you have any questions!
     
