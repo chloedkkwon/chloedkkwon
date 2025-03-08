@@ -13,6 +13,8 @@ I'm also fascinated by different **experimental, statistical, and computational 
 
 I will continue sharing my codes to help those starting their own research or language-related data science projects. 
 
+For a more academic introduction, please visit [my website](https://chloedkkwon.github.io/).
+
 Feel free to reach me at [dk837@cornell.edu](mailto:dk837@cornell.edu) or [chloe.dkkwon@gmail.com](mailto:chloe.dkkwon@gmail.com) if you have any questions!
     
 <!--
