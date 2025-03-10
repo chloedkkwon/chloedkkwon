@@ -1,4 +1,4 @@
-## Hello, I'm Dokyung Kwon (You can call me Chloe)!
+## Hello, I'm Dokyung Kwon. You can call me Chloe 😊
 
 I started doing research in phonetics in 2017 when I wanted to help Korean L2 learners of English improve their pronunciation. Over time, my focus shifted toward a more cognitive perspective, specifically, how variability in speech maps onto sound categories and words in our minds. 
 
