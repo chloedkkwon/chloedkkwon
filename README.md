@@ -9,7 +9,7 @@ I'm also fascinated by different **experimental, statistical, and computational 
 🛠️ When it comes to tools, I regularly use MATLAB, R, and Python, each for different purposes:
 - **MATLAB** for signal processing and data visualization (especially time series data)
 - **R** for statistical analyses and data visualization (especially model predictions)
-- **Python** for data cleaning (e.g., romanizing non-alphabetic characters), machine learning, deep neural networks, using LLMs
+- **Python** for data cleaning (e.g., romanizing non-alphabetic characters), machine learning, deep neural networks, LLMs
 
 I will continue sharing my codes to help those starting their own research or language-related data science projects. 
 
