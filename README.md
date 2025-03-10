@@ -7,9 +7,9 @@ I started doing research in phonetics in 2017 when I wanted to help Korean L2 le
 I'm also fascinated by different **experimental, statistical, and computational approaches to modeling data**, which is a big part of why I fell in love with phonetics!
 
 🛠️ When it comes to tools, I regularly use MATLAB, R, and Python, each for different purposes:
-- **MATLAB** for acoustic data, signal processing, and data visualization
-- **R** for statistical analyses and data visualization
-- **Python** for data cleaning, machine learning, and deep neural networks
+- **MATLAB** for signal processing and data visualization (especially time series data)
+- **R** for statistical analyses and data visualization (especially model predictions)
+- **Python** for data cleaning (e.g., romanizing non-alphabetic characters), machine learning, deep neural networks, using LLMs
 
 I will continue sharing my codes to help those starting their own research or language-related data science projects. 
 
