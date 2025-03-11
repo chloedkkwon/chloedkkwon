@@ -4,14 +4,14 @@ I started doing research in phonetics in 2017 when I wanted to help Korean L2 le
 
 💡 If you are curious about my linguistic research, please visit [my website](https://chloedkkwon.github.io/).
 
-I'm also fascinated by different **experimental, statistical, and computational approaches to modeling data**, which is a big part of why I fell in love with phonetics!
+I'm also fascinated by different **experimental, statistical, and computational approaches to modeling data**, which is a big part of why I fell in love with phonetics, particularly the challenge of analyzing complex speech data.
 
 🛠️ When it comes to tools, I regularly use MATLAB, R, and Python, each for different purposes:
 - **MATLAB** for signal processing and data visualization (especially time series data)
 - **R** for statistical analyses and data visualization (especially model predictions)
 - **Python** for data cleaning (e.g., romanizing non-alphabetic characters), machine learning, deep neural networks, LLMs
 
-I will continue sharing my codes to help those starting their own research or language-related data science projects. 
+I will continue sharing my codes to help those starting their own research or data science projects. 
 
 📫 Feel free to reach me at [dk837@cornell.edu](mailto:dk837@cornell.edu) or [chloe.dkkwon@gmail.com](mailto:chloe.dkkwon@gmail.com) if you have any questions!
     
