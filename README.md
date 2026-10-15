@@ -11,7 +11,7 @@ When it comes to tools, I regularly use MATLAB, R, and Python, each for differen
 
 I will continue to share my code to help those starting their own research or data science projects. 
 
-Feel free to reach me at [dk837@cornell.edu](mailto:dk837@cornell.edu) or [chloe.dkkwon@gmail.com](mailto:chloe.dkkwon@gmail.com) if you have any questions!
+Feel free to reach me at [kwonc9@mcmaster.ca](mailto:kwonc9@mcmaster.ca) or [chloe.dkkwon@gmail.com](mailto:chloe.dkkwon@gmail.com) if you have any questions!
     
 <!--
 **chloedkkwon/chloedkkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
